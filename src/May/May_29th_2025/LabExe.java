@@ -2,7 +2,7 @@ package May.May_29th_2025;
 
 public class LabExe {
 
-    public public static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Lab Exercise");
     }
 }
